@@ -1,0 +1,111 @@
+---
+object: card
+id: 00fc97d3-d8e4-4234-a6da-7b17316fa9ac
+oracle_id: d858e6db-9842-41d1-8006-574c8dcd98ed
+multiverse_ids:
+- 226553
+tcgplayer_id: 81930
+cardmarket_id: 256204
+name: Truga Jungle
+lang: en
+released_at: '2012-06-01'
+uri: https://api.scryfall.com/cards/00fc97d3-d8e4-4234-a6da-7b17316fa9ac
+scryfall_uri: https://scryfall.com/card/opc2/38/truga-jungle?utm_source=api
+layout: planar
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/0/00fc97d3-d8e4-4234-a6da-7b17316fa9ac.jpg?1547434372
+  normal: https://cards.scryfall.io/normal/front/0/0/00fc97d3-d8e4-4234-a6da-7b17316fa9ac.jpg?1547434372
+  large: https://cards.scryfall.io/large/front/0/0/00fc97d3-d8e4-4234-a6da-7b17316fa9ac.jpg?1547434372
+  png: https://cards.scryfall.io/png/front/0/0/00fc97d3-d8e4-4234-a6da-7b17316fa9ac.png?1547434372
+  art_crop: https://cards.scryfall.io/art_crop/front/0/0/00fc97d3-d8e4-4234-a6da-7b17316fa9ac.jpg?1547434372
+  border_crop: https://cards.scryfall.io/border_crop/front/0/0/00fc97d3-d8e4-4234-a6da-7b17316fa9ac.jpg?1547434372
+mana_cost: ''
+cmc: 0.0
+type_line: Plane — Ergamon
+oracle_text: |-
+  All lands have "{T}: Add one mana of any color."
+  Whenever chaos ensues, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: false
+variation: false
+set_id: 7079031b-c5b0-4353-87af-a63a0f204f47
+set: opc2
+set_name: Planechase 2012 Planes
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/7079031b-c5b0-4353-87af-a63a0f204f47
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aopc2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/opc2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/00fc97d3-d8e4-4234-a6da-7b17316fa9ac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad858e6db-9842-41d1-8006-574c8dcd98ed&unique=prints
+collector_number: '38'
+digital: false
+rarity: common
+card_back_id: 7840c131-f96b-4700-9347-2215c43156e6
+artist: Jim Nelson
+artist_ids:
+- aa9f64d1-29e1-4c82-877e-44c18183f40b
+illustration_id: 5eb058cb-16a2-4a9b-aefb-b76362d5569f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '1.32'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.90'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226553
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Truga+Jungle&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Truga+Jungle&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Truga+Jungle
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/81930?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Truga+Jungle&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Truga+Jungle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

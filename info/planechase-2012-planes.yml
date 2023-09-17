@@ -1,0 +1,18 @@
+---
+object: set
+id: 7079031b-c5b0-4353-87af-a63a0f204f47
+code: opc2
+mtgo_code: opc2
+arena_code: opc2
+name: Planechase 2012 Planes
+uri: https://api.scryfall.com/sets/7079031b-c5b0-4353-87af-a63a0f204f47
+scryfall_uri: https://scryfall.com/sets/opc2
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aopc2&unique=prints
+released_at: '2012-06-01'
+set_type: planechase
+card_count: 40
+parent_set_code: pc2
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pc2.svg?1694404800

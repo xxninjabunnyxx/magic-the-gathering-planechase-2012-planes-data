@@ -1,0 +1,105 @@
+---
+object: card
+id: 4180d81e-6559-4b28-ad8d-513994ddca5d
+oracle_id: ce8139b9-31f3-464d-86ea-7efbdbfce478
+multiverse_ids:
+- 226539
+tcgplayer_id: 81901
+cardmarket_id: 256189
+name: Bloodhill Bastion
+lang: en
+released_at: '2012-06-01'
+uri: https://api.scryfall.com/cards/4180d81e-6559-4b28-ad8d-513994ddca5d
+scryfall_uri: https://scryfall.com/card/opc2/12/bloodhill-bastion?utm_source=api
+layout: planar
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/1/4180d81e-6559-4b28-ad8d-513994ddca5d.jpg?1547434227
+  normal: https://cards.scryfall.io/normal/front/4/1/4180d81e-6559-4b28-ad8d-513994ddca5d.jpg?1547434227
+  large: https://cards.scryfall.io/large/front/4/1/4180d81e-6559-4b28-ad8d-513994ddca5d.jpg?1547434227
+  png: https://cards.scryfall.io/png/front/4/1/4180d81e-6559-4b28-ad8d-513994ddca5d.png?1547434227
+  art_crop: https://cards.scryfall.io/art_crop/front/4/1/4180d81e-6559-4b28-ad8d-513994ddca5d.jpg?1547434227
+  border_crop: https://cards.scryfall.io/border_crop/front/4/1/4180d81e-6559-4b28-ad8d-513994ddca5d.jpg?1547434227
+mana_cost: ''
+cmc: 0.0
+type_line: Plane — Equilor
+oracle_text: |-
+  Whenever a creature enters the battlefield, it gains double strike and haste until end of turn.
+  Whenever chaos ensues, exile target nontoken creature you control, then return it to the battlefield under your control.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: false
+variation: false
+set_id: 7079031b-c5b0-4353-87af-a63a0f204f47
+set: opc2
+set_name: Planechase 2012 Planes
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/7079031b-c5b0-4353-87af-a63a0f204f47
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aopc2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/opc2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4180d81e-6559-4b28-ad8d-513994ddca5d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ace8139b9-31f3-464d-86ea-7efbdbfce478&unique=prints
+collector_number: '12'
+digital: false
+rarity: common
+card_back_id: 7840c131-f96b-4700-9347-2215c43156e6
+artist: Mark Hyzer
+artist_ids:
+- 85deac3f-b647-4893-993d-3ea4d16d93ef
+illustration_id: 1997a8b5-21ca-429d-9224-222ebea4fc77
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '1.23'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226539
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bloodhill+Bastion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bloodhill+Bastion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bloodhill+Bastion
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/81901?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bloodhill+Bastion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bloodhill+Bastion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

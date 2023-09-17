@@ -1,0 +1,106 @@
+---
+object: card
+id: 0da259c7-a8b5-475e-a2ac-9c4bfed4810d
+oracle_id: d6ab4159-e04e-4991-8a9b-9da302c98e9d
+multiverse_ids:
+- 226517
+tcgplayer_id: 81899
+cardmarket_id: 255416
+name: Aretopolis
+lang: en
+released_at: '2012-06-01'
+uri: https://api.scryfall.com/cards/0da259c7-a8b5-475e-a2ac-9c4bfed4810d
+scryfall_uri: https://scryfall.com/card/opc2/10/aretopolis?utm_source=api
+layout: planar
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/d/0da259c7-a8b5-475e-a2ac-9c4bfed4810d.jpg?1547434246
+  normal: https://cards.scryfall.io/normal/front/0/d/0da259c7-a8b5-475e-a2ac-9c4bfed4810d.jpg?1547434246
+  large: https://cards.scryfall.io/large/front/0/d/0da259c7-a8b5-475e-a2ac-9c4bfed4810d.jpg?1547434246
+  png: https://cards.scryfall.io/png/front/0/d/0da259c7-a8b5-475e-a2ac-9c4bfed4810d.png?1547434246
+  art_crop: https://cards.scryfall.io/art_crop/front/0/d/0da259c7-a8b5-475e-a2ac-9c4bfed4810d.jpg?1547434246
+  border_crop: https://cards.scryfall.io/border_crop/front/0/d/0da259c7-a8b5-475e-a2ac-9c4bfed4810d.jpg?1547434246
+mana_cost: ''
+cmc: 0.0
+type_line: Plane — Kephalai
+oracle_text: |-
+  When you planeswalk to Aretopolis or at the beginning of your upkeep, put a scroll counter on Aretopolis, then you gain life equal to the number of scroll counters on it.
+  When Aretopolis has ten or more scroll counters on it, planeswalk.
+  Whenever chaos ensues, put a scroll counter on Aretopolis, then draw cards equal to the number of scroll counters on it.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: false
+variation: false
+set_id: 7079031b-c5b0-4353-87af-a63a0f204f47
+set: opc2
+set_name: Planechase 2012 Planes
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/7079031b-c5b0-4353-87af-a63a0f204f47
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aopc2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/opc2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0da259c7-a8b5-475e-a2ac-9c4bfed4810d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad6ab4159-e04e-4991-8a9b-9da302c98e9d&unique=prints
+collector_number: '10'
+digital: false
+rarity: common
+card_back_id: 7840c131-f96b-4700-9347-2215c43156e6
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: d5c2e9f0-cb0e-4e7c-9d81-c0fd7805b035
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '1.58'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226517
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aretopolis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aretopolis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aretopolis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/81899?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aretopolis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aretopolis&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
